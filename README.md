@@ -14,11 +14,16 @@ Test Environment
     Driver: RADV Polaris12
 
 Benchmark Results
+
 DXVK Version	Average FPS	 1% Low FPS	   0.1% Low (Stability)	      Frame Time
-Default DXVK	    80.8	    65.5	     	       61.7             12.4 ms
-DXVK-Sarek	        82.2	    56.2		           31.9             12.2 ms
-DXVK-GPLAsync	    74.8	    57.8	               52.9	            13.4 ms
-DXVK-Low-Latency	74.8	    57.1	               45.6	            13.4 ms
+
+Default DXVK:	    80.8	    65.5	     	       61.7             12.4 ms
+
+DXVK-Sarek:	        82.2	    56.2		           31.9             12.2 ms
+
+DXVK-GPLAsync:	    74.8	    57.8	               52.9	            13.4 ms
+
+DXVK-Low-Latency:	74.8	    57.1	               45.6	            13.4 ms
 
 Technical Analysis
 
