@@ -1,4 +1,6 @@
-DXVK Benchmark Report: RX 550 & i5-3570 Stability Analysis
+DXVK Benchmark Report: RX 550 & i5-3570 Stability Analysis 
+
+watch full video: https://youtu.be/H-BwUcES4tM
 
 This report provides a detailed performance comparison between different DXVK versions (Sarek, GPLAsync, Low-Latency, and Default) using the Tomb Raider benchmark. The goal was to determine which version offers the best balance between raw power and frame pacing on entry-level hardware.
 Test Environment
